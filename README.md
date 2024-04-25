@@ -7,11 +7,14 @@ This Python script automates the process of sending emails to individuals whose 
 4.Now create an Excel File with name 'Birthdays.xlsx' and save it in same folder
 5.In the XLSX File create your friends birthday and data like given below
 
-Sno        Name        DOB        Email
-1         Alex      15-06-2001   email1@gmail.com
-2          Bob      17-02-2002   email2@gmail.com
+| Sno | Name | DOB | Email |
+|-----------------|-----------------|-----------------|-----------------|
+| 1 | Alex | 15-06-2001 | email1@gmail.com |
+| 2 | Bob | 17-03-2003 |  email2@gmail.com |
+
+
 
 Save this file and you are all set and run this python script or make it run everyday using Windows Scheduler or automated system or put it in cloud services to run everyday
 This will run everyday and sends the birthday email by checking it everyday
-
+ 
 
